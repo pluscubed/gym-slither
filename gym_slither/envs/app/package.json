@@ -1,0 +1,11 @@
+{
+  "name": "deepsnek-engine",
+  "version": "0.1.0",
+  "main": "app.js",
+  "dependencies": {
+    "command-line-args": "^3.0.5",
+    "electron": "^9.0.0",
+    "express": "^4.14.0",
+    "xvfb-maybe": "^0.2.1"
+  }
+}

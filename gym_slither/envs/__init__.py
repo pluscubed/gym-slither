@@ -1,0 +1,1 @@
+from gym_slither.envs.slither_env import SlitherEnv
